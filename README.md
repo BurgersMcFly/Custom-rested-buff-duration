@@ -1,4 +1,4 @@
-Powered by Powered by [Cyber Engine Tweaks](https://github.com/yamashi/CyberEngineTweaks)
+Powered by [Cyber Engine Tweaks](https://github.com/yamashi/CyberEngineTweaks)
 
 # Custom Rested Buff Duration
 
@@ -20,7 +20,7 @@ https://www.nexusmods.com/cyberpunk2077/mods/6197
 
 ## Notes
 
-Credits to CrazySD for doing it first with their Better Housing Buffs mod. Make sure to download and endorse their mod. You don't need it for this to work but you can use both at the same time.
+Credits to [CrazySD](https://www.nexusmods.com/cyberpunk2077/users/35969520) for doing it first with Redmod with their [Better Housing Buffs](https://www.nexusmods.com/cyberpunk2077/mods/6181) mod. Make sure to download and endorse their mod. You don't need it for this to work but you can use both at the same time.
 
 ## License
 
